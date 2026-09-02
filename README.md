@@ -7,7 +7,7 @@ Rust with an egui front end, for Windows.
 ## Command line
 
 ```bash
-basic_dnc.exe --machine "Haas VF2" C:\nc\O1234.nc
+basicdnc.exe --machine "Haas VF2" C:\nc\O1234.nc
 ```
 
 Queues those files for that machine at startup, which is what an Explorer
