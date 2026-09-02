@@ -15,5 +15,4 @@ Queues those files for that machine at startup, which is what an Explorer
 
 ## Dependency licences
 
-`THIRD_PARTY.md` carries the attribution list; regenerate it with
-`cargo about`. `deny.toml` holds the allowlist for `cargo deny check licenses`.
+`THIRD_PARTY.md` carries the attribution list
