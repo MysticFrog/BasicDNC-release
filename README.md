@@ -10,9 +10,6 @@ Rust with an egui front end, for Windows.
 basicdnc.exe --machine "Haas VF2" C:\nc\O1234.nc
 ```
 
-Queues those files for that machine at startup, which is what an Explorer
-"Send to" shortcut needs. Files dragged onto the window open the same dialog.
-
 ## Dependency licences
 
 `THIRD_PARTY.md` carries the attribution list
